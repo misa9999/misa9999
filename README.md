@@ -3,9 +3,10 @@
 
 >### Languages / Frameworks
 <a href="https://github.com/yuukiasuna00">
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
                                                                                                                                 
 ---                                                                                                                   
