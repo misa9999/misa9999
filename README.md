@@ -1,5 +1,6 @@
 <h1 align="center">🌸 𝒴𝒶𝒽𝒶𝓁𝓁𝑜, 𝐼'𝓂 𝒞𝒶𝑒𝓁𝓎𝓃𝓃 🌸
-<h2 align="center"><strong>𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝐵𝑎𝑐𝑘-𝑒𝑛𝑑, 𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑎𝑛𝑑 𝒞𝑦𝑏𝑒𝑟 𝒮𝑒𝑐𝑢𝑟𝑖𝑡𝑦</strong></h2>
+<h2 align="center"><strong>𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝐹𝑟𝑜𝑛𝑡/𝐵𝑎𝑐𝑘-𝑒𝑛𝑑 𝑎𝑛𝑑 𝒞𝑦𝑏𝑒𝑟 𝒮𝑒𝑐𝑢𝑟𝑖𝑡𝑦</strong></h2>
+  
 
 
 >### ☄ Languages / Frameworks
@@ -15,12 +16,6 @@
 <a href="https://reactjs.org/">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
-<a href="#">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-<a href="#">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
                                                                                                                                 
 ---                                                                                                                   
 >### ⚙ Tools & Others
@@ -35,9 +30,6 @@
 </a>
 <a href="https://vercel.com/">
   <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://jupyter.org/">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </a>
 
 ---
