@@ -1,4 +1,4 @@
-### Hi there, I'm caelynn - aka Misa
+### Hi there, I'm caelynn - aka Misa 👋
 
 ## I'm a Developer and Python lover!
 - 🌱 I’m currently learning everything 🤣
@@ -23,3 +23,11 @@
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="yuukiasuna00 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuukiasuna00&show_icons=true&hide_border=true" />
+
+</details>
