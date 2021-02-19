@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Anthrax.vercel.app/api/spotify-playing" alt="yuukiasuna00 Spotify Playing" width="350" />](https://open.spotify.com/user/ahu7wcwci11kjd8nilhube67k)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yuukiasuna00 Spotify Playing" width="350" />](https://open.spotify.com/user/ahu7wcwci11kjd8nilhube67k)
 
 ----
 
