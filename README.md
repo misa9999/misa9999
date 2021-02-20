@@ -1,6 +1,6 @@
-# Hi there, I'm caelynn - aka Misa 👋
+# Hi there, I'm caelynn - aka 結城明日奈 :heart:
 
-## I'm a Developer and Python lover!
+## I'm a full-stack developer and Python lover!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
