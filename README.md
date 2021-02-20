@@ -11,7 +11,15 @@
 <h2 align="center">:rocket: Languages and Tools :gear:</h2>
 
 <a href="https://github.com/yuukiasuna00">
- <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yuukiasuna00">
@@ -21,36 +29,9 @@
 <a href="https://github.com/yuukiasuna00">
  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </a>
-<a href="https://github.com/yuukiasuna00">
- <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
 
 <a href="https://github.com/yuukiasuna00">
- <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-</a>
-
-<a href="https://github.com/yuukiasuna00">
- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yuukiasuna00">
- <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</a>
-
-<a href="https://github.com/yuukiasuna00">
- <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yuukiasuna00">
- <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yuukiasuna00">
- 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yuukiasuna00">
- <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+ <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yuukiasuna00">
@@ -62,15 +43,39 @@
 </a>
 
 <a href="https://github.com/yuukiasuna00">
+ <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux%20-%2320232a.svg?style=for-the-badge&logo=arch-linux&color=1793D1&logoColor=white" />
+<a/>
+ 
+<a href="https://github.com/yuukiasuna00">
  <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-%23323330.svg?&style=for-the-badge&logo=manjaro&logoColor=35BF5C" />
 </a>
 
 <a href="https://github.com/yuukiasuna00">
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yuukiasuna00">
- <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+ 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </a>
 
 <br />
