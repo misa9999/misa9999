@@ -29,7 +29,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuukiasuna00&count_private=true&bg_color=DEG,020001,222&text_color=fff&title_color=e5006b&hide_border=true&line_height=24&show_icons=true&icon_color=e5006b&custom_title=Stats&hide=issues" alt="Github Stats yuukiasuna00" />
 </a>
 <a href="https://github.com/yuukiasuna00/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuukiasuna00&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&bg_color=DEG,020001,222&title_color=e5006b&text_color=fff&hide_border=true" alt="Top Languages yuukiasuna00" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuukiasuna00&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&bg_color=DEG,222,020001&title_color=e5006b&text_color=fff&hide_border=true" alt="Top Languages yuukiasuna00" />
 </a>
 
 
