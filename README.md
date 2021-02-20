@@ -6,10 +6,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and read
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yuukiasuna00 Spotify Playing" width="350" />](https://open.spotify.com/user/ahu7wcwci11kjd8nilhube67k)
-
 ----
 
 ### Languages and Tools:
@@ -35,3 +31,11 @@
   <img align="left" alt="yuukiasuna00 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuukiasuna00&show_icons=true&hide_border=true" />
 
 </details>
+
+<h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
+
+> Netlify: https://anime-manga-database.netlify.app/
+
+> Repository: https://github.com/yuukiasuna00/anime-manga-database
+
+<p align="center"><img src="https://github.com/yuukiasuna00/anime-manga-database/blob/main/.github/screen-1.gif" alt="screen1 gif"/></p>
