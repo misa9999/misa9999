@@ -37,6 +37,41 @@
  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 
+<a href="https://github.com/yuukiasuna00">
+ <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=000" />
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-%23323330.svg?&style=for-the-badge&logo=manjaro&logoColor=35BF5C" />
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuukiasuna00">
+ <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+</a>
 
 <br />
 <br />
