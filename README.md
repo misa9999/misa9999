@@ -29,3 +29,21 @@ const aboutMe = {
 ```
 ----
 
+<h2 align="center">💻 Some stats 💻</h2>
+
+<a href="https://github.com/yuukiasuna00/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuukiasuna00&count_private=true&bg_color=DEG,020001,222&text_color=fff&title_color=e5006b&hide_border=true&line_height=24&show_icons=true&icon_color=e5006b&custom_title=Stats&hide=issues" alt="Github Stats yuukiasuna00" />
+</a>
+<a href="https://github.com/yuukiasuna00/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuukiasuna00&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&bg_color=DEG,222,020001&title_color=e5006b&text_color=fff&hide_border=true" alt="Top Languages yuukiasuna00" />
+</a>
+
+
+<h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
+
+> Netlify: https://anime-manga-database.netlify.app/
+
+> Repository: https://github.com/yuukiasuna00/anime-manga-database
+
+<p align="center"><img src="https://github.com/yuukiasuna00/anime-manga-database/blob/main/.github/screen-1.gif" alt="screen1 gif"/></p>
+
