@@ -42,9 +42,15 @@ const aboutMe = {
 
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> Netlify: https://anime-manga-database.netlify.app/
-
-> Repository: https://github.com/yuukiasuna00/anime-manga-database
+<p align="center">
+   <a href="https://anime-manga-database.netlify.app/">
+      <img src="https://github.com/yuukiasuna00/yuukiasuna00/blob/main/assets/nyancat.gif" width="50px" />
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/yuukiasuna00/anime-manga-database">
+      <img src="https://github.com/yuukiasuna00/yuukiasuna00/blob/main/assets/bonefire.gif" width="50px" />
+   </a>
+</p>
 
 <p align="center"><img src="https://github.com/yuukiasuna00/anime-manga-database/blob/main/.github/screen-1.gif" alt="screen1 gif"/></p>
 
