@@ -36,9 +36,8 @@ const aboutMe = {
 </a>
 
 <a href="https://github.com/yuukiasuna00/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuukiasuna00&hide=php&handlebars&langs_count=5&layout=compact&card_width=305&bg_color=DEG,222,020001&title_color=e5006b&text_color=fff&hide_border=true" alt="Top Languages yuukiasuna00" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuukiasuna00&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&bg_color=DEG,222,020001&title_color=e5006b&text_color=fff&hide_border=true" alt="Top Languages yuukiasuna00" />
 </a>
-
 
 
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
