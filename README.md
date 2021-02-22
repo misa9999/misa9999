@@ -21,7 +21,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer"],
       misc: ["Bash", "Selenium"]
    },
-   currentOccupation: ["lopen for job opportunities"],
+   currentOccupation: ["Open for job opportunities"],
    challenge: "I’m looking to collaborate with other content creators",
    goals: "Contribute more to Open Source projects",
    funFact: "There are two ways to write error-free programs; only the third one works"
