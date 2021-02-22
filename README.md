@@ -4,14 +4,31 @@ print("Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 <img align="left" src="https://github.com/yuukiasuna00/yuukiasuna00/blob/main/assets/pusheencode.gif">
 
-
-## I'm a full-stack developer and Python lover!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and read
-
+```javascript
+const aboutMe = {
+   pronouns: "she" | "her",
+   askMeAbout: ["web dev", "tech", "app dev", "photography"],
+   code: [Javascript, Typescript, HTML, CSS, Python],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["scss", "styled-components", "Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         python: ["flask"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      misc: ["Bash", "Selenium"]
+   },
+   currentOccupation: ["lopen for job opportunities"],
+   challenge: "I’m looking to collaborate with other content creators",
+   goals: "Contribute more to Open Source projects",
+   funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 ----
+
 <br />
 
 <h2 align="center">:rocket: Languages and Tools :gear:</h2>
@@ -88,6 +105,8 @@ print("Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 <br />
 
 ---
+
+<h2 align="center">💻 Some stats 💻</h2>
 
 <a href="https://github.com/yuukiasuna00/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuukiasuna00&count_private=true&bg_color=DEG,020001,222&text_color=fff&title_color=e5006b&hide_border=true&line_height=24&show_icons=true&icon_color=e5006b&custom_title=Stats&hide=issues" alt="Github Stats yuukiasuna00" />
