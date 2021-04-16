@@ -3,7 +3,7 @@ print("Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 </h1>
 
 <p align="center">
-   <img align="center" src="https://github.com/zarathustra999/zarathustra999/blob/main/assets/pusheencode.gif">
+   <img align="center" src="https://github.com/misa9999/misa9999/blob/main/assets/pusheencode.gif">
 </p>
 
 <section align="center">
@@ -36,12 +36,12 @@ const aboutMe = {
 
 <h2 align="center">💻 Some stats 💻</h2>
 
-<a href="https://github.com/zarathustra999/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zarathustra999&count_private=true&bg_color=DEG,020001,222&text_color=fff&title_color=e5006b&hide_border=true&line_height=24&show_icons=true&icon_color=e5006b&custom_title=Stats&hide=issues" alt="Github Stats zarathustra999" />
+<a href="https://github.com/misa9999/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=misa9999&count_private=true&bg_color=DEG,020001,222&text_color=fff&title_color=e5006b&hide_border=true&line_height=24&show_icons=true&icon_color=e5006b&custom_title=Stats&hide=issues" alt="Github Stats misa9999" />
 </a>
 
-<a href="https://github.com/zarathustra999/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarathustra999&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&bg_color=DEG,222,020001&title_color=e5006b&text_color=fff&hide_border=true" alt="Top Languages zarathustra999" />
+<a href="https://github.com/misa9999/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misa9999&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&bg_color=DEG,222,020001&title_color=e5006b&text_color=fff&hide_border=true" alt="Top Languages misa9999" />
 </a>
 
 ---
@@ -51,13 +51,13 @@ const aboutMe = {
 <p align="center">
    site &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; repo <br />
    <a href="https://anime-manga-database.netlify.app/">
-      <img src="https://github.com/zarathustra999/zarathustra999/blob/main/assets/nyancat.gif" width="50px" />
+      <img src="https://github.com/misa9999/misa9999/blob/main/assets/nyancat.gif" width="50px" />
    </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/zarathustra999/anime-manga-database">
-      <img src="https://github.com/zarathustra999/zarathustra999/blob/main/assets/bonefire.gif" width="50px" />
+   <a href="https://github.com/misa9999/anime-manga-database">
+      <img src="https://github.com/misa9999/misa9999/blob/main/assets/bonefire.gif" width="50px" />
    </a>
 </p>
 
-<p align="center"><img src="https://github.com/zarathustra999/anime-manga-database/blob/main/.github/screen-1.gif" alt="screen1 gif"/></p>
+<p align="center"><img src="https://github.com/misa9999/anime-manga-database/blob/main/.github/screen-1.gif" alt="screen1 gif"/></p>
 
